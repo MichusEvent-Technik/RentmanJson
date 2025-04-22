@@ -55084,7 +55084,7 @@
             "custom": {},
             "id": 3769,
             "created": "2025-01-10T13:35:23+01:00",
-            "modified": "2025-04-22T13:51:29+02:00",
+            "modified": "2025-04-22T14:06:28+02:00",
             "creator": "/crew/33",
             "displayname": "Barelement 2m",
             "folder": {
@@ -55098,7 +55098,7 @@
             "internal_remark": "",
             "external_remark": "",
             "unit": "",
-            "in_shop": true,
+            "in_shop": false,
             "surface_article": false,
             "shop_description_short": "",
             "shop_description_long": "",
@@ -55137,7 +55137,7 @@
             "qrcodes_of_serial_numbers": "",
             "tags": "sft material import 1",
             "location_in_warehouse": "",
-            "updateHash": "b791b592e6ca16ebfd71efe1aaadbb88",
+            "updateHash": "535d18965fe71308bdce1f4aa4e89638",
             "image_url": null
         },
         {
@@ -55624,7 +55624,7 @@
             "custom": {},
             "id": 3791,
             "created": "2025-01-10T13:35:24+01:00",
-            "modified": "2025-04-22T13:51:29+02:00",
+            "modified": "2025-04-22T14:06:28+02:00",
             "creator": "/crew/33",
             "displayname": "DJ Set",
             "folder": {
@@ -55638,7 +55638,7 @@
             "internal_remark": "",
             "external_remark": "",
             "unit": "",
-            "in_shop": true,
+            "in_shop": false,
             "surface_article": false,
             "shop_description_short": "",
             "shop_description_long": "",
@@ -55677,7 +55677,7 @@
             "qrcodes_of_serial_numbers": "",
             "tags": "sft material import 1",
             "location_in_warehouse": "",
-            "updateHash": "5e328e0cc326803acf9bf9620a22a5ae",
+            "updateHash": "368a6020dee9c52283c458feec6970a9",
             "image_url": null
         },
         {
@@ -55744,7 +55744,7 @@
             "custom": {},
             "id": 3793,
             "created": "2025-01-10T13:35:24+01:00",
-            "modified": "2025-04-22T13:51:29+02:00",
+            "modified": "2025-04-22T14:06:28+02:00",
             "creator": "/crew/33",
             "displayname": "SimplyOrder Access Point Set",
             "folder": {
@@ -55758,7 +55758,7 @@
             "internal_remark": "",
             "external_remark": "",
             "unit": "",
-            "in_shop": true,
+            "in_shop": false,
             "surface_article": false,
             "shop_description_short": "",
             "shop_description_long": "",
@@ -55797,7 +55797,7 @@
             "qrcodes_of_serial_numbers": "",
             "tags": "sft material import 1",
             "location_in_warehouse": "",
-            "updateHash": "44496dcef8c708a21107566e3e6651ac",
+            "updateHash": "b3d63d16c8f9b0d4c2e05fa8e2068b43",
             "image_url": null
         },
         {
@@ -55924,7 +55924,7 @@
             "custom": {},
             "id": 3796,
             "created": "2025-01-10T13:35:24+01:00",
-            "modified": "2025-04-22T13:51:29+02:00",
+            "modified": "2025-04-22T14:06:28+02:00",
             "creator": "/crew/33",
             "displayname": "Speakon Set",
             "folder": {
@@ -55938,7 +55938,7 @@
             "internal_remark": "",
             "external_remark": "",
             "unit": "",
-            "in_shop": true,
+            "in_shop": false,
             "surface_article": false,
             "shop_description_short": "",
             "shop_description_long": "",
@@ -55977,7 +55977,7 @@
             "qrcodes_of_serial_numbers": "",
             "tags": "sft material import 1",
             "location_in_warehouse": "",
-            "updateHash": "a682405db8ee806fcc74d668e028a6bf",
+            "updateHash": "033a79ab1b74e66841c1ef8496c4166c",
             "image_url": null
         },
         {
@@ -56044,7 +56044,7 @@
             "custom": {},
             "id": 3804,
             "created": "2025-01-10T13:35:24+01:00",
-            "modified": "2025-04-22T13:51:29+02:00",
+            "modified": "2025-04-22T14:06:28+02:00",
             "creator": "/crew/33",
             "displayname": "SimplyOrder Gilet-Set 5 Personen",
             "folder": {
@@ -56058,7 +56058,7 @@
             "internal_remark": "",
             "external_remark": "",
             "unit": "",
-            "in_shop": true,
+            "in_shop": false,
             "surface_article": false,
             "shop_description_short": "",
             "shop_description_long": "",
@@ -56097,14 +56097,14 @@
             "qrcodes_of_serial_numbers": "",
             "tags": "sft material import 1",
             "location_in_warehouse": "",
-            "updateHash": "ed442899aa7aa0b7be231fe09d67f277",
+            "updateHash": "022eaf63974ab9087fe4e4a9a5a1d89a",
             "image_url": null
         },
         {
             "custom": {},
             "id": 3805,
             "created": "2025-01-10T13:35:24+01:00",
-            "modified": "2025-04-22T13:51:29+02:00",
+            "modified": "2025-04-22T14:06:28+02:00",
             "creator": "/crew/33",
             "displayname": "SimplyOrder Tischnummerierung 50 Tische",
             "folder": {
@@ -56118,7 +56118,7 @@
             "internal_remark": "",
             "external_remark": "",
             "unit": "",
-            "in_shop": true,
+            "in_shop": false,
             "surface_article": false,
             "shop_description_short": "",
             "shop_description_long": "",
@@ -56157,7 +56157,7 @@
             "qrcodes_of_serial_numbers": "",
             "tags": "sft material import 1",
             "location_in_warehouse": "",
-            "updateHash": "97d1a464fcf10a17a4b1b727c431f92d",
+            "updateHash": "41f9a6822d419323e5e732dac5f9f3fc",
             "image_url": null
         },
         {
@@ -56584,7 +56584,7 @@
             "custom": {},
             "id": 3814,
             "created": "2025-01-10T13:35:24+01:00",
-            "modified": "2025-04-22T13:51:29+02:00",
+            "modified": "2025-04-22T14:06:28+02:00",
             "creator": "/crew/33",
             "displayname": "XLR Set",
             "folder": {
@@ -56598,7 +56598,7 @@
             "internal_remark": "",
             "external_remark": "",
             "unit": "",
-            "in_shop": true,
+            "in_shop": false,
             "surface_article": false,
             "shop_description_short": "",
             "shop_description_long": "",
@@ -56637,7 +56637,7 @@
             "qrcodes_of_serial_numbers": "",
             "tags": "sft material import 1",
             "location_in_warehouse": "",
-            "updateHash": "bb811d1c9a8d02423d312ea071b09fe1",
+            "updateHash": "aefcd4e23513da9c611e820326e6272b",
             "image_url": null
         },
         {

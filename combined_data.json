@@ -60484,7 +60484,7 @@
             "custom": {},
             "id": 3887,
             "created": "2025-01-11T14:37:44+01:00",
-            "modified": "2025-04-22T13:51:29+02:00",
+            "modified": "2025-04-22T14:22:33+02:00",
             "creator": "/crew/33",
             "displayname": "leisesprecher",
             "folder": {
@@ -60498,7 +60498,7 @@
             "internal_remark": "",
             "external_remark": "",
             "unit": "",
-            "in_shop": true,
+            "in_shop": false,
             "surface_article": false,
             "shop_description_short": "",
             "shop_description_long": "",
@@ -60537,7 +60537,7 @@
             "qrcodes_of_serial_numbers": "",
             "tags": "",
             "location_in_warehouse": "",
-            "updateHash": "ae8b2661608cab89681fb3a2f9018d8b",
+            "updateHash": "67c35a958f7be93eca4f226fda6182cc",
             "image_url": null
         },
         {

@@ -91496,7 +91496,7 @@
             "custom": {},
             "id": 4470,
             "created": "2025-04-28T11:45:29+02:00",
-            "modified": "2025-04-28T12:02:24+02:00",
+            "modified": "2025-04-28T12:25:15+02:00",
             "creator": "/crew/33",
             "displayname": "JBL SRX/VTX PM Adapter",
             "folder": {
@@ -91513,7 +91513,7 @@
             "in_shop": true,
             "surface_article": false,
             "shop_description_short": "<p>T-Bar Adapter für JBL SRX900 &amp; VTX</p>",
-            "shop_description_long": "<p>Passend zu JBL SRX900 und VTX. Wichtig benötigt eine Bodenplatte! Geeignet um bis zu drei JBL SRX906 auf Stativen zu platzieren! </p>",
+            "shop_description_long": "<p>Passend zu JBL SRX900 und VTX. Wichtig benötigt dazu die passende Bodenplatte! Geeignet um bis zu zwei JBL SRX906 auf Stativen zu platzieren! </p>",
             "shop_seo_title": "",
             "shop_seo_keyword": "",
             "shop_seo_description": "",
@@ -91549,7 +91549,7 @@
             "qrcodes_of_serial_numbers": "",
             "tags": "m&m material",
             "location_in_warehouse": "",
-            "updateHash": "8cdb25bdb2da5432d27db32dbc37b67a",
+            "updateHash": "e6d2e329dd88a61d6909d3ac233aae58",
             "image_url": "https://s3-eu-west-1.amazonaws.com/rentman-production/121508%2Frm4_mmeventtechnik_947_google_image_e4340e67742b611053649a775b0db87e.jpeg",
             "stock_by_location": {
                 "M&M Lager": 2
@@ -91559,7 +91559,7 @@
             "custom": {},
             "id": 4471,
             "created": "2025-04-28T11:54:03+02:00",
-            "modified": "2025-04-28T12:01:45+02:00",
+            "modified": "2025-04-28T12:24:07+02:00",
             "creator": "/crew/33",
             "displayname": "SRX906LA BP",
             "folder": {
@@ -91576,7 +91576,7 @@
             "in_shop": true,
             "surface_article": false,
             "shop_description_short": "<p>Bodenplatte zu SRX906LA</p>",
-            "shop_description_long": "<p>Kann zum Montieren von SRX906LA Elementen auf Subwoofer (Querformat, max 6 Elemente) oder für die Montage der Line Array Elementen auf Stativen (max 2 Elemente) verwendet werden. Für die Montage auf Stativen wird zusätzlich noch der JBL SRX/VTX PM Adapter benötigt. Artikelnummer: 1544</p>",
+            "shop_description_long": "<p>Kann zum Montieren von SRX906LA Elementen auf Subwoofern (Querformat, max. 6 Elemente) oder für die Montage der Line Array Elementen auf Stativen (max. 2 Elemente) verwendet werden. Für die Montage auf Stativen wird zusätzlich noch der JBL SRX/VTX PM Adapter benötigt. Artikelnummer: 1544</p>",
             "shop_seo_title": "",
             "shop_seo_keyword": "",
             "shop_seo_description": "",
@@ -91612,7 +91612,7 @@
             "qrcodes_of_serial_numbers": "",
             "tags": "m&m material",
             "location_in_warehouse": "",
-            "updateHash": "5357e8eef518d225abaa499ad3cdee2e",
+            "updateHash": "812a59825580377a1f34b628195e4197",
             "image_url": "https://s3-eu-west-1.amazonaws.com/rentman-production/121508%2Frm4_mmeventtechnik_948_google_image_c2a7735e54594d509f3f795d27c09a36.jpeg",
             "stock_by_location": {
                 "M&M Lager": 2

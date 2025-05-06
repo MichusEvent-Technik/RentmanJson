@@ -67,7 +67,7 @@
             "custom": {},
             "id": 688,
             "created": "2024-12-28T14:30:45+01:00",
-            "modified": "2025-04-22T13:51:29+02:00",
+            "modified": "2025-05-06T07:38:05+02:00",
             "creator": "/crew/33",
             "displayname": "JBL SRX 812P",
             "folder": {
@@ -89,7 +89,7 @@
             "shop_seo_keyword": "",
             "shop_seo_description": "",
             "shop_featured": false,
-            "price": 100,
+            "price": 80,
             "subrental_costs": 0,
             "critical_stock_level": 0,
             "type": "item",
@@ -120,7 +120,7 @@
             "qrcodes_of_serial_numbers": "",
             "tags": "m&m material",
             "location_in_warehouse": "",
-            "updateHash": "b85fab6724e15725f246457903a89298",
+            "updateHash": "934f45f95f2fd6f11d39939e261ecee8",
             "image_url": "https://s3-eu-west-1.amazonaws.com/rentman-production/121508%2Frm4_mmeventtechnik_325_google_image_2240c8e83e702b0cd7a1893edd0e5591.jpeg",
             "stock_by_location": {
                 "M&M Lager": 2

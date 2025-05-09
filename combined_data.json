@@ -11446,7 +11446,7 @@
             "custom": {},
             "id": 2474,
             "created": "2025-01-09T10:23:50+01:00",
-            "modified": "2025-02-21T14:41:33+01:00",
+            "modified": "2025-05-06T10:19:40+02:00",
             "creator": "/crew/33",
             "displayname": "K&M Distanzstangen mit M20 Gewinde",
             "folder": {
@@ -11499,7 +11499,7 @@
             "qrcodes_of_serial_numbers": "",
             "tags": "bcm material",
             "location_in_warehouse": "",
-            "updateHash": "8242de4c53664697ad40ca61f560f72e",
+            "updateHash": "97517b9f8c242d2a802fe04a7590617d",
             "image_url": null,
             "stock_by_location": {
                 "Lager Lyss (BCM)": 12
@@ -65867,7 +65867,7 @@
             "custom": {},
             "id": 3926,
             "created": "2025-01-18T08:16:25+01:00",
-            "modified": "2025-01-18T15:52:48+01:00",
+            "modified": "2025-05-06T10:16:52+02:00",
             "creator": "/crew/33",
             "displayname": "48 Kanal DMX Steuerung Botex DC-2448Light operator",
             "folder": {
@@ -65920,7 +65920,7 @@
             "qrcodes_of_serial_numbers": "",
             "tags": "djrefjd material",
             "location_in_warehouse": "",
-            "updateHash": "8a5a073ec4684bdedcea05bc23cdbe13",
+            "updateHash": "a036d41ae09b67c8a1cf18658c255fe5",
             "image_url": null,
             "stock_by_location": {
                 "Lager DJ Ref JD": 1
